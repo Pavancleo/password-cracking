@@ -23,7 +23,7 @@ The project clearly compares **unsalted hashes** and **salted hashes** to show t
 ---
 
 ## Project Structure
-
+```
 password-security-project/
 ├── hashing/
 │ ├── hash_password.py # Salted hashing
@@ -32,7 +32,7 @@ password-security-project/
 │ └── crack_hash.py # Dictionary-based cracker
 ├── wordlist.txt
 └── README.md
-
+```
 ## How To Use This Project
 
 ### Prerequisites
@@ -100,6 +100,7 @@ password-security-project/
 This project is strictly for educational purposes only.
 All demonstrations are performed on self-created passwords in a controlled environment.
 No real user data or systems were harmed or targeted.
+
 
 
 
